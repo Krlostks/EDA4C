@@ -1,3 +1,4 @@
+package MCD;
 import java.util.Scanner;
 public class Maximo {
     public static void main(String [] args){
