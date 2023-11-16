@@ -1,0 +1,2 @@
+INVESTIGACION = regla para permitir la multilicacion de matrices no cuadradas
+Ejercicio rsuelto de la multiplicacion de una matriz no cuadrada
